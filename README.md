@@ -14,3 +14,12 @@
 </div>
 
 ---
+
+### 🐍 Fun Fact: Commit Snake
+<div align="center">
+  <img src="https://github.com/DangwKiem/DangwKiem/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
